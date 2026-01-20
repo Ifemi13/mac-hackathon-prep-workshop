@@ -63,7 +63,7 @@ Use GitHub to:
 - Learn as you go
   - Don't be afraid to go on YouTube for a "how-to" video or ask a mentor walking around!
 
----
+
 
 Happy hacking!!! (Don't you know the grind never stops??)
 
